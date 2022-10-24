@@ -1,9 +1,16 @@
 import Page from "@page/index"
+import Shared from "@shared/index";
 
 export const routes: IRoute[] = [
     {
         path: '',
-        element: <Page.Home />,
+        element: <Shared.Init />,
+        children: [
+            {
+                index: true,
+                element: <Page.Home />,
+            }
+        ]
     },
     {
         path: '*',

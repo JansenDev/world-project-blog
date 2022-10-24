@@ -2,8 +2,25 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps&family=Noto+Sans+Vai&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps&display=swap");
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  position: relative;
+
+  & #root {
+    height: 100%;
+  }
 }
