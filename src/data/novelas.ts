@@ -1,7 +1,7 @@
 export const novelas: ICollecion[] = [
     {
         collection_id: 1,
-        title: "Seirei Gensouki",
+        title: "seirei gensouki",
         synopsis: "Amakawa Haruto es un joven que murió antes de reunirse con su amiga de la infancia que desapareció hace cinco años. Río es un chico que vive en los barrios marginales que quiere vengarse de su madre que fue asesinada frente a él cuando tenía cinco años. La tierra y otro mundo. Dos personas con historias y valores completamente diferentes. Por alguna razón, los recuerdos y la personalidad de Haruto, quien debería haber muerto, resucitan en el cuerpo de Río. Como los dos están confundidos sobre sus recuerdos y personalidades fusionándose juntos, Río (Haruto) decide vivir en este nuevo mundo. Junto con los recuerdos de Haruto, Río despierta un desconocido \"poder especial\", y parece que si lo usa bien, puede vivir una vida mejor. Pero antes de eso, Río se encontró con un secuestro que resulta involucrar a dos princesas del Reino de Bertram en las que vive. Después de salvar a las princesas, a Río se le da una beca a la Real Academia, una escuela para los ricos y poderosos.",
         volumes_total: 20,
         volumes_total_real: 23,
@@ -159,14 +159,14 @@ export const novelas: ICollecion[] = [
         novels: [
             {
                 volume_number: 1,
-                cover_url: "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
-                download_pdf_url: "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
+                cover_url: "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
+                download_pdf_url: "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
                 read_online_url: "https://drive.google.com/file/d/1S_oG-gU4VWBrJTSoW5f5ilB7ylslZWzI/view"
             },
             {
                 volume_number: 2,
                 cover_url: "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
-                download_pdf_url: "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
+                download_pdf_url: "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
                 read_online_url: "https://drive.google.com/file/d/1S_oG-gU4VWBrJTSoW5f5ilB7ylslZWzI/view"
             },
             {
@@ -392,7 +392,8 @@ export const novelas: ICollecion[] = [
                 read_online_url: "https://drive.google.com/file/d/1yBAJZU2Etse_TXLM6r4EhVhKcU_MUKAB/view",
             },
         ]
-    }, {
+    },
+    {
         collection_id: 8,
         title: "TAKING CARE OF MY YOUNGER SISTER’S TOO NAIVE OF A BEAUTIFUL YANKEE HIGH SCHOOLER, THEN FALLING IN LOVE",
         synopsis: `¡Onii-san es el hombre que puede hacerme crecer! ¡Cásate conmigo!"
@@ -415,7 +416,206 @@ export const novelas: ICollecion[] = [
                 read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
             }
         ]
-    }
+    },
+    {
+        collection_id: 9,
+        title: "Tate no yuusha",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 1,
+        volumes_total_real: 10,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2017/11/cover6.jpg?resize=470%2C658&ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 10,
+        title: "testing name 1",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 4,
+        volumes_total_real: 4,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://static.wixstatic.com/media/a70849_4ca946664bd943669f385a5af5db8eb3~mv2.jpg/v1/fill/w_192,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1.jpg",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 11,
+        title: "testing name 2",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 3,
+        volumes_total_real: 6,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2017/11/cover4.jpg?ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 12,
+        title: "testing name 3",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+        volumes_total: 6,
+        volumes_total_real: 8,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2017/11/cover2.jpg?resize=470%2C705&ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 13,
+        title: "testing name 4",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 14,
+        volumes_total_real: 15,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2017/11/cover1.jpg?ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 15,
+        title: "testing name 5",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 5,
+        volumes_total_real: 6,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2018/02/cover-honorablemention.jpg?ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 16,
+        title: "testing name 6",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 5,
+        volumes_total_real: 10,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2018/02/cover-10-rev.jpg?resize=470%2C661&ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 17,
+        title: "testing name 7",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 5,
+        volumes_total_real: 10,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2017/11/cover9.jpg?resize=470%2C717&ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 18,
+        title: "testing name 8",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 1,
+        volumes_total_real: 1,
+        status: "Finalizado",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i0.wp.com/englishlightnovels.com/wp-content/uploads/2017/11/cover7.jpg?resize=470%2C705&ssl=1",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
+    {
+        collection_id: 19,
+        title: "testing name 9",
+        synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
+        Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
+
+        volumes_total: 5,
+        volumes_total_real: 20,
+        status: "Activo",
+        genders: ["Comedia", "Acción", "Fantasía", "Drama"],
+        novels: [
+            {
+                volume_number: 1,
+                cover_url: "https://i.pinimg.com/736x/2b/e8/12/2be812c2be5270ce4d16374240b3dd65.jpg",
+                download_pdf_url: "https://www.mediafire.com/file/tq58cc5y90oefri/Volumen_1_World_Project_.pdf/file",
+                read_online_url: "https://drive.google.com/file/d/1rUzfk3ddI4medaqOH8qtI7BGp8IsihQ_/view"
+            }
+        ]
+    },
 ]
 
 export interface ICollecion {

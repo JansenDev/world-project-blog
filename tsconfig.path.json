@@ -1,14 +1,15 @@
 {
   "compilerOptions": {
-    // "baseUrl": "./src",
+    "baseUrl": "./src",
     "paths": {
-      "@page/*": ["./src/page/*"],
-      "@assets/*": ["./src/assets/*"],
-      "@config/*": ["./src/config/*"],
-      "@domain/*": ["./src/domain/*"],
-      "@routes/*": ["./src/routes/*"],
-      "@service/*": ["./src/service/*"],
-      "@shared/*": ["./src/shared/*"]
+      "@page/*": ["./page/*"],
+      "@assets/*": ["./assets/*"],
+      "@config/*": ["./config/*"],
+      "@domain/*": ["./domain/*"],
+      "@routes/*": ["./routes/*"],
+      "@service/*": ["./service/*"],
+      "@shared/*": ["./shared/*"],
+      "@data/*": ["./data/*"],
     }
   }
 }
