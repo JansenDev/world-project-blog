@@ -20,8 +20,12 @@ export const routes: IRoute[] = [
                     },
                     {
                         path: "activas",
-                        element: <Page.NovelActives />
-                    }
+                        element: <Page.NovelActives status="Activo" />
+                    },
+                    {
+                        path: "finalizadas",
+                        element: <Page.NovelFinished />
+                    },
                 ]
             }
         ]

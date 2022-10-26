@@ -1,16 +1,23 @@
 import { ICollecion, novelas as dataNovels, novel_status, } from '@data/novelas'
+interface INovel {
+    status: novel_status
+}
 
-function NovelActives() {
+function NovelActives({ status }: INovel) {
     return (
         <main className=''>
             <div className='text-center pt-6 pb-10 md:pt-10 md:pb-16'>
-                <h1 className=' xs:text-2xl sm:text-3xl  md:text-[40px] font-elsie font-medium'>Proyectos en Curso</h1>
+                {status === "Activo" && (<h1 className=' xs:text-2xl sm:text-3xl  md:text-[40px] font-elsie font-medium'>Proyectos en Curso</h1>)
+                }
+
+                {status === "Finalizado" && (<h1 className=' xs:text-2xl sm:text-3xl  md:text-[40px] font-elsie font-medium'>Proyectos Finalizados</h1>)
+                }
             </div>
             <section className='grid  grid-cols-1 xs:grid-cols-2  md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-y-2 sm:gap-y-5  justify-center align-middle overflow-hidden'>
                 {
                     dataNovels.length && dataNovels.map((novel, index) => {
 
-                        return <RenderNovelFindByStatus novel={novel} status="Activo" key={index} />
+                        return <RenderNovelFindByStatus novel={novel} status={status} key={index} />
                     })
                 }
             </section>
