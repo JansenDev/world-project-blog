@@ -1,5 +1,5 @@
-import { ICollecion, novelas as dataNovels, novel_status } from "@data/novelas";
-interface INovel {
+import { ICollection, novelas as dataNovels, novel_status } from "@data/novelas";
+export interface INovel {
   status: novel_status;
 }
 
@@ -45,8 +45,8 @@ function NovelActives({ status }: INovel) {
 }
 
 // shadow-[inset_0_-10px_15px_0_rgba(0,0,0,0.3)]
-// TODO: Si es mejor a 21 cracteres deberia centrar el titulo
-function NovelItem({ novel, status }: RenderNovelProps) {
+// TODO: Si es menor a 21 cracteres deberia centrar el titulo
+export function NovelItem({ novel, status }: RenderNovelProps) {
   return (
     <>
       {status === novel.status && (
@@ -79,8 +79,8 @@ function NovelItem({ novel, status }: RenderNovelProps) {
   );
 }
 
-interface RenderNovelProps {
-  novel: ICollecion;
+export interface RenderNovelProps {
+  novel: ICollection;
   status: novel_status;
 }
 export default NovelActives;

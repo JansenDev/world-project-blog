@@ -1,4 +1,4 @@
-export const novelas: ICollecion[] = [
+export const novelas: ICollection[] = [
     {
         collection_id: 1,
         title: "seirei gensouki",
@@ -903,7 +903,7 @@ export const novelas: ICollecion[] = [
     },
 ];
 
-export interface ICollecion {
+export interface ICollection {
     collection_id?: number;
     title: string;
     synopsis: string;

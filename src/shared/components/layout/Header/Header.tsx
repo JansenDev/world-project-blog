@@ -24,7 +24,7 @@ function Header() {
               <Link to="/novelas/finalizadas" className="font-bold hover:text-blue-700 block py-2 pr-4 pl-3 text-white bg-gray-700 rounded md:bg-transparent md:text-gray-700 md:p-0 md:dark:text-white dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Novelas Finalizadas</Link>
             </li>
             <li>
-              <Link to="/" className="font-bold hover:text-blue-700 block py-2 pr-4 pl-3 text-white bg-gray-700 rounded md:bg-transparent md:text-gray-700 md:p-0 md:dark:text-white dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Apóyanos</Link>
+              <Link to="/novelas/apoyanos" className="font-bold hover:text-blue-700 block py-2 pr-4 pl-3 text-white bg-gray-700 rounded md:bg-transparent md:text-gray-700 md:p-0 md:dark:text-white dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Apóyanos</Link>
             </li>
             {/* <li className='relative'> */}
             {/* Button Novelas */}
