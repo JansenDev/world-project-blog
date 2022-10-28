@@ -9,6 +9,9 @@ export default defineConfig({
   server: {
     port: 3000
   },
+  esbuild: {
+    drop: ['console', 'debugger']
+  },
   resolve: {
     alias: {
       "@config": path.resolve(__dirname, "./src/config"),
@@ -22,6 +25,6 @@ export default defineConfig({
     }
   },
   build: {
-    sourcemap: true
+    sourcemap: true,
   }
 })
