@@ -5,12 +5,12 @@ import path from "path"
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/world-project-blog/",
+  // base: "/world-project-blog/",
   server: {
     port: 3000
   },
   esbuild: {
-    drop: ['console', 'debugger']
+    drop: process.env.prod &&  ['console', 'debugger']
   },
   resolve: {
     alias: {

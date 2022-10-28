@@ -1,15 +1,14 @@
-import './App.scss'
-import Navegation from '@routes/index'
+import "./App.scss";
+import Navegation from "@routes/index";
 import { BrowserRouter } from "react-router-dom";
-
+import { enviroments } from "./config";
 
 function App() {
-
   return (
-    <BrowserRouter basename='/world-project-blog/' >
+    <BrowserRouter>
       <Navegation />
     </BrowserRouter>
-  )
+  );
 }
 
-export default App
+export default App;

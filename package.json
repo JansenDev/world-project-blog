@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --open",
+    "start": "set prod=true && vite --open",
     "build": "tsc && vite build",
     "preview": "npm run build && vite preview --open",
     "predeploy": "npm run build",

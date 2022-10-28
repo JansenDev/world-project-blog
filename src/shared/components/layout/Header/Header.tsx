@@ -5,7 +5,7 @@ function Header() {
     <nav className="bg-white border-gray-200 dark:bg-gray-700 dark:border-gray-700 py-2 shadow mb-[2px]">
       <section className="flex flex-wrap justify-between items-center w-5/6 md:w-[825px]   xl:w-[1170px]  mx-auto ">
         <Link to="/" className="flex items-center">
-          <img src="/world-project-blog/favicon.svg" className="pl-2 mr-3 h-6 sm:h-10 w-[31px]  sm:w-[40px] lg:w-[46px]" alt="Logo" />
+          <img src="/favicon.svg" className="pl-2 mr-3 h-6 sm:h-10 w-[31px]  sm:w-[40px] lg:w-[46px]" alt="Logo" />
           <span className="text-md self-center sm:text-xl font-semibold whitespace-nowrap dark:text-white font-elsie">World Project</span>
         </Link>
         <button data-collapse-toggle="mobile-menu" type="button" className="inline-flex justify-center items-center ml-3 text-gray-400 rounded-lg md:hidden hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-300 dark:text-gray-400 dark:hover:text-white dark:focus:ring-gray-500" aria-controls="mobile-menu-2" aria-expanded="false">
