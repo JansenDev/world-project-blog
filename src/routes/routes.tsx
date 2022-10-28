@@ -30,6 +30,10 @@ export const routes: IRoute[] = [
                         path: "apoyanos",
                         element: <Page.NovelSuportUs />
                     },
+                    {
+                        path: "detalles/:name",
+                        element: <Page.NovelDetail />
+                    },
                 ]
             }
         ]

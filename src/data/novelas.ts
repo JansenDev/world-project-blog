@@ -26,7 +26,7 @@ export const novelas: ICollection[] = [
                     "https://drive.google.com/file/d/1S_oG-gU4VWBrJTSoW5f5ilB7ylslZWzI/view",
                 volume_number: 2,
                 cover_url:
-                    "https://static.wixstatic.com/media/87d1c8_81d5fa370e70454283b6f87c747c3666~mv2.jpg/v1/fill/w_195,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Cover.jpg",
+                    "https://static.wixstatic.com/media/87d1c8_586e77e0378d423497431830593b32ff~mv2.jpg/v1/fill/w_195,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Cover.jpg",
             },
             {
                 novel_id: 3,
@@ -36,7 +36,7 @@ export const novelas: ICollection[] = [
                     "https://drive.google.com/file/d/1S_oG-gU4VWBrJTSoW5f5ilB7ylslZWzI/view",
                 volume_number: 3,
                 cover_url:
-                    "https://static.wixstatic.com/media/87d1c8_81d5fa370e70454283b6f87c747c3666~mv2.jpg/v1/fill/w_195,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Cover.jpg",
+                    "https://static.wixstatic.com/media/87d1c8_2ffbda1b1a4e4ac59c040c6763d91f02~mv2.jpg/v1/fill/w_195,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Cover.jpg",
             },
             {
                 novel_id: 4,
@@ -230,8 +230,8 @@ export const novelas: ICollection[] = [
             },
             {
                 volume_number: 2,
-                cover_url:
-                    "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
+                   cover_url:
+                    "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 download_pdf_url:
                     "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
                 read_online_url:
@@ -239,8 +239,8 @@ export const novelas: ICollection[] = [
             },
             {
                 volume_number: 3,
-                cover_url:
-                    "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
+                   cover_url:
+                    "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 download_pdf_url:
                     "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 read_online_url:
@@ -248,8 +248,8 @@ export const novelas: ICollection[] = [
             },
             {
                 volume_number: 4,
-                cover_url:
-                    "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
+                   cover_url:
+                    "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 download_pdf_url:
                     "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 read_online_url:
@@ -257,8 +257,8 @@ export const novelas: ICollection[] = [
             },
             {
                 volume_number: 5,
-                cover_url:
-                    "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
+                   cover_url:
+                    "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 download_pdf_url:
                     "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 read_online_url:
@@ -266,8 +266,8 @@ export const novelas: ICollection[] = [
             },
             {
                 volume_number: 6,
-                cover_url:
-                    "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
+                   cover_url:
+                    "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 download_pdf_url:
                     "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 read_online_url:
@@ -275,8 +275,8 @@ export const novelas: ICollection[] = [
             },
             {
                 volume_number: 7,
-                cover_url:
-                    "http://www.mediafire.com/file/37868qpv8epxgo5/Volumen_1_World_Project_.pdf/file",
+                   cover_url:
+                    "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 download_pdf_url:
                     "https://static.wixstatic.com/media/87d1c8_5386626af8644ff0bd15b94f5aaca1b0~mv2.jpg/v1/fill/w_182,h_273,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9781975356897.jpg",
                 read_online_url:
@@ -880,7 +880,7 @@ export const novelas: ICollection[] = [
     },
     {
         collection_id: 22,
-        title: "testing name 3",
+        title: "testing        name 3",
         synopsis: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur! 
         Lorem ipsum, dolor sit amet consectetur adipisicing elit.  quaerat tempore voluptatibus veritatis laudantium molestias maiores et, distinctio nihil eum sint? Impedit ipsum corrupti commodi consectetur aspernatur!
         Doloremque, dolorem quae, obcaecati quaerat tempore voluptatibus vepti commodi consectetur aspernatur!`,
