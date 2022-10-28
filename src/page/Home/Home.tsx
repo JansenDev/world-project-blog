@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div className="h-[calc(100vh-227px)] xs:h-[calc(100vh-227px)] sm:h-[calc(100vh-235px)]">
+    <div className="h-[calc(100vh-171px)] xs:h-[calc(100vh-219px)] sm:h-[calc(100vh-215px)] md:h-[calc(100vh-227px)]">
       <div className="h-[calc(40vh-76px)] sm:h-[calc(60vh-76px)] bg-[url('@assets/images/background.webp')] bg-no-repeat bg-cover bg-top relative rounded-md shadow-sm">
         <div
           className="text-sm md:text-3xl xl:text-4xl uppercase font-semibold absolute sm:bottom-9 bg-transparent bg-slate-50
